@@ -6,7 +6,7 @@ Software & AI Product Engineer based in Nigeria. I build resilient and reliable 
 scale under load, and now, put LLMs to work in production.
 
 - 👯 Open to collaborating on **backend systems**, **RAG pipelines**, and **agentic AI** projects
-- 💬 Ask me about **NestJS**, **BullMQ & Redis queues**, **payment integrations (Paystack, Stripe)**, or **RAG evaluation**
+- 💬 Ask me about **NestJS**, **BullMQ & Redis queues**, **payment integrations**, **Agentic RAG** or **RAG evaluation**
 - 🤝 I consult with startup founders, taking their backend and AI systems from idea to MVP launch
 - 🎓 Currently completing a Master's in Information Technology (AI specialisation) at Miva Open University
 - ✍️ I write [**AI Engineering Deep Dive**](https://www.linkedin.com/in/enyinna-chinwendu-promise/), a biweekly LinkedIn newsletter on how real AI products work
